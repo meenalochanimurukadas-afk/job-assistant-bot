@@ -1,0 +1,9 @@
+BASE_SKILL=Java
+CANDIDATE_SKILL_DESCRIPTION=Enter candidate skills here
+ROLES=Java Developer,Java Programmer,Java Analyst
+LOCATIONS=Bangalore,Hyderabad
+EXPERIENCE=4 years
+CONFIDENCE_THRESHOLD=85
+GOOGLE_SHEET_URL=your_google_sheet_url
+CANDIDATE_EMAIL=your_email@example.com
+SEND_EMAIL=false
